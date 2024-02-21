@@ -1,9 +1,9 @@
 
-# Rendered Recipes
+# README generator
 
 ## Description
     
-A regional food app  
+generates a README from user  
 
 
    
@@ -19,15 +19,15 @@ A regional food app
     
 ## Installation
     
-Open the app
+npm i
 ## Usage
-Click on the pin    
+    
     
     
     
 ## Credits
     
-Anthony and Paris    
+Me    
 
 ## License
 
