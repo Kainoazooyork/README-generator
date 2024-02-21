@@ -24,7 +24,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 npm i
 ## Usage
     
-[https://drive.google.com/file/d/1owbHMrbc54BnnyhQ00_HYqZscEp-Kgz9/view](https://drive.google.com/file/d/1owbHMrbc54BnnyhQ00_HYqZscEp-Kgz9/view)
+Walkthrough Video: [https://drive.google.com/file/d/1owbHMrbc54BnnyhQ00_HYqZscEp-Kgz9/view](https://drive.google.com/file/d/1owbHMrbc54BnnyhQ00_HYqZscEp-Kgz9/view)
     
     
 ## Credits
